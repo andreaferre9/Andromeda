@@ -1,0 +1,39 @@
+2024-11-11-mi-primer-articulo.md
+---
+layout: post
+title: "Mi primer artículo"
+date: 2024-11-12 10:00:00
+categories: periodismo blog
+---
+
+# Mi primer artículo
+
+Bienvenidos a mi blog de periodismo. Este es un ejemplo de mi primer artículo. Aquí hablaré sobre el contenido de ejemplo, y cómo escribir y formatear texto en **Markdown**.
+
+## ¿Qué es Markdown?
+
+Markdown es un lenguaje de marcado ligero que permite escribir contenido de forma fácil y rápida, y luego convertirlo en HTML. Es perfecto para redactar artículos, como el que estás leyendo ahora.
+
+### Ventajas de usar Markdown:
+- **Simplicidad**: Es muy fácil de aprender y usar.
+- **Formato limpio**: No necesitas escribir código HTML pesado.
+- **Compatibilidad**: Puedes convertirlo fácilmente a otros formatos, como PDF o HTML.
+
+## Cómo escribir en Markdown
+
+Aquí te muestro cómo se utiliza Markdown para algunos formatos comunes:
+
+- **Negrita**: `**Texto en negrita**`
+- *Cursiva*: `*Texto en cursiva*`
+- Listas:
+  - Item 1
+  - Item 2
+
+[Enlace a mi otro artículo](https://tu-sitio.com/articulo2)
+
+¡Eso es todo por ahora!
+
+---
+
+**Autor**: Tu Nombre  
+**Fecha**: 12 de noviembre de 2024
